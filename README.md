@@ -1,3 +1,8 @@
+# my changes
+* I added yolov3 to see if I could also run the exported onnx (from ultralytics) successfully
+* the yolov3 onnx file is uploaded in three file in the folder config_files, run yolov3-join-onnx.sh to join them to the original onnx file
+* then you can run yolo-img.py to check if the model works
+
 # yolov5-opencv-cpp-python
 
 Example of performing inference with ultralytics YOLO V5, OpenCV 4.5.4 DNN, C++ and Python 
